@@ -12,7 +12,7 @@ girl = loadImage("./assets/girl.png");
 
 
 
-var molly, gaurd,ground,bg,gamestate="puzzle2";
+var molly, gaurd,ground,bg,gamestate="intro";
 var puzzle, submitbtn;
 var check=1;
 
